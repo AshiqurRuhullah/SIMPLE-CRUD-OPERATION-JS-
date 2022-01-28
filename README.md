@@ -1,1 +1,2 @@
 # SIMPLE-CRUD-OPERATION-JS-
+![](Output.JPG)
